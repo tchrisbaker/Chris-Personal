@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c2d7ba05675d6b83",
+        "id": "4f413c4077022d15",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3d9ab5824356318f",
@@ -82,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c2d7ba05675d6b83",
+  "active": "4f413c4077022d15",
   "lastOpenFiles": [
+    "Rider.md",
+    "C.md",
+    "event.md",
     "unlinked files output.md",
     "Unity Source Code.md",
     "Rider Shortcuts.md",
     "Gizmos.DrawIcon.md",
     "Enumerable.Any().md",
     "Component Model.md",
-    "C# Event Example.md",
-    "unresolved links output.md",
-    "Audio Source Play Audio - PlayOneShot.md",
-    "Code Moneky Utils - Function Timer.md"
+    "C# Event Example.md"
   ]
 }
