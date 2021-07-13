@@ -1,0 +1,10 @@
+Don't forget that creating the file from here may create the file in the wrong directory!
+- [[Level Design]] in [[Level Design - Use sample scene]], [[Level Design - Sketch out iamge first]]
+- [[Unity3d]] in [[Level Design - Use sample scene]], [[Level Design - Sketch out iamge first]], [[C# Event Example]], [[CodeMonkey Utils]], [[Component Model]], [[Enumerable.Any()]], [[Gizmos.DrawIcon]], [[Code Moneky Utils - Function Timer]]
+- [[Jason Archetecture Course]] in [[C# Event Example]]
+- [[event]] in [[C# Event Example]], [[Unity Changed Value Event]]
+- [[C#]] in [[C# Event Example]], [[Component Model]], [[Gizmos.DrawIcon]], [[Linq]], [[Sort objects by distance]], [[Unity Changed Value Event]], [[Unity Source Code]], [[Code Moneky Utils - Function Timer]]
+- [[Gizmos]] in [[Gizmos.DrawIcon]]
+- [[Rider]] in [[Rider Shortcuts]]
+- [[changed value]] in [[Unity Changed Value Event]]
+- [[C# Event Example]] in [[unlinked files output]]
