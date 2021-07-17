@@ -1,4 +1,5 @@
-Unity [[changed value]] [[event ]][[C#]]
+
+#CSharp #Unity3d #Events
   
 - Use a set property 
 ```C#
@@ -7,4 +8,3 @@ public string {get; set{
 }}
 ```
 
-and send an event when it is Set 

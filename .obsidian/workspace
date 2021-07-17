@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "4f413c4077022d15",
+        "id": "9606989fe348f7ab",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -49,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3d9ab5824356318f",
@@ -83,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f413c4077022d15",
+  "active": "9606989fe348f7ab",
   "lastOpenFiles": [
-    "Rider.md",
-    "C.md",
+    "Audio Source Play Audio - PlayOneShot.md",
+    "Play Audio Clip.md",
+    "Untitled.md",
+    "Linq.md",
     "event.md",
-    "unlinked files output.md",
     "Unity Source Code.md",
-    "Rider Shortcuts.md",
-    "Gizmos.DrawIcon.md",
-    "Enumerable.Any().md",
-    "Component Model.md",
-    "C# Event Example.md"
+    "Unity Changed Value Event.md",
+    "Sort objects by distance.md",
+    "SOQL Lock for update.md",
+    "Rider Shortcuts.md"
   ]
 }
